@@ -1,0 +1,18 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\bin\Debug\05-CheckThirdBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\05-CheckThirdBit\obj\Debug\05-CheckThirdBit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\obj\Debug\11-PrintBit.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\11-PrintBit\bin\Debug\11-PrintBit.pdb

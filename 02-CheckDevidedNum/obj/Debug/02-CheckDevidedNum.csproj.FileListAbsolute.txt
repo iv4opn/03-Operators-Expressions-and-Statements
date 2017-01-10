@@ -1,0 +1,12 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\bin\Debug\02-CheckDevidedNum.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\02-CheckDevidedNum\obj\Debug\02-CheckDevidedNum.csprojResolveAssemblyReference.cache

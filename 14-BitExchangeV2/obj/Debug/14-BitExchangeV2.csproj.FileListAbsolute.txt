@@ -1,0 +1,17 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\bin\Debug\14-BitExchangeV2.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\14-BitExchangeV2\obj\Debug\14-BitExchangeV2.pdb

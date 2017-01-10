@@ -1,0 +1,13 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\obj\Debug\08-TrapezoidArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\08-TrapezoidArea\bin\Debug\08-TrapezoidArea.pdb

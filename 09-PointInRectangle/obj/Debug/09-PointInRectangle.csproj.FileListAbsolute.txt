@@ -1,0 +1,17 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\bin\Debug\09-PointInRectangle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\09-PointInRectangle\obj\Debug\09-PointInRectangle.csprojResolveAssemblyReference.cache

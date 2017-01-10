@@ -1,0 +1,13 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\obj\Debug\07-PrimeNumber.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\07-PrimeNumber\bin\Debug\07-PrimeNumber.pdb

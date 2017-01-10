@@ -1,0 +1,15 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\bin\Debug\04-CheckNum7.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\04-CheckNum7\obj\Debug\04-CheckNum7.csprojResolveAssemblyReference.cache

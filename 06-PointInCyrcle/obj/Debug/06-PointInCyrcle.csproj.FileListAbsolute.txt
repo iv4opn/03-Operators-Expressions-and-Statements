@@ -1,0 +1,14 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\bin\Debug\06-PointInCyrcle.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\06-PointInCyrcle\obj\Debug\06-PointInCyrcle.csprojResolveAssemblyReference.cache

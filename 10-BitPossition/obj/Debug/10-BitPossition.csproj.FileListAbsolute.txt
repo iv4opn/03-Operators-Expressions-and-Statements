@@ -1,0 +1,17 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\bin\Debug\10-BitPossition.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\10-BitPossition\obj\Debug\10-BitPossition.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\obj\Debug\03-CalcReactArea.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\03-CalcReactArea\bin\Debug\03-CalcReactArea.pdb

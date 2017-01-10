@@ -1,0 +1,21 @@
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\New folder\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2012\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe.config
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.exe
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\bin\Debug\01-OddOrEven.pdb
+C:\Users\Ivo\Documents\Visual Studio 2013\Projects\NakovBookExercises\03-Operators-Expressions-and-Statements\01-OddOrEven\obj\Debug\01-OddOrEven.csprojResolveAssemblyReference.cache
